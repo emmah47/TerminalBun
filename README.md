@@ -4,7 +4,7 @@ A very cute bunny that will greet you when you open your terminal!
 ## Setup
 To run this program when the terminal starts, add:
 
-    alias exit='python3 /Users/emmahuang/PycharmProjects/TerminalBun/exit.py && exit'
+    alias exit='<Absolute path to TerminalBun/exit.py> && exit'
     python3 <Absolute path to TerminalBun/start.py>
 
 
