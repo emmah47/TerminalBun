@@ -1,7 +1,36 @@
 # Terminal Bun
 A very cute bunny that will greet you when you open your terminal!
 
-## Config
+## Bunny design:
+
+  (\(\  
+  (^.^)
+o(___)
+
+  (\(\  
+  (-.-) 
+o(___)
+
+  (\(\  
+  (o.o)
+o(___)
+
+   /)/)  
+  (o.o)
+o(___)
+
+   /)/)  
+  (>.<) 
+o(___)
+
+  (\(\  
+  (>.o)
+o(___)
+ 		         
+   __(\(\
+o(___(o.o)
+
+## Setup
 To run this program when the terminal starts, add:
 "python3 <Absolute path to TerminalBun/main.py>"
 without the quotations into your .bash_profile :D
