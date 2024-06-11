@@ -1,5 +1,6 @@
 # Terminal Bun
-A very cute bunny that will greet you when you open your terminal!
+A very cute bunny that will greet you when you open your terminal! It will also say goodbye when you leave :D
+Very easy to configure, feel free to swap in your own greeting and goodbye messages or edit the animation!
 
 ## Setup
 To run this program when the terminal starts, add:
